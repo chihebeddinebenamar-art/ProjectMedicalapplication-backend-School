@@ -13,8 +13,6 @@ Ce dépôt contient les services backend d'une application médicale microservic
 - Service de découverte (Eureka / Consul)
 - Passerelle API pour routage et sécurité
 
-
-
 ## Contact
 
 Pour toute question ou information supplémentaire, n'hésitez pas à nous contacter à : chihebeddine.benamar@gmail.com
